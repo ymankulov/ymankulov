@@ -64,24 +64,27 @@
 
 ---
 
-### 📊 Статистика
+### 📊 GitHub Статистика (🔥 максимум)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ymankulov&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ymankulov&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymankulov&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ymankulov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&border_radius=10&custom_title=📈+Моя+GitHub+Статистика" width="500" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymankulov&langs_count=12&layout=donut&theme=tokyonight&hide_border=false" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ymankulov&theme=tokyonight&hide_border=false&mode=weekly" width="500" />
 </p>
 
 ---
 
-### 📈 Активность
+### 📈 График активности
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ymankulov&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ymankulov&theme=tokyo-night&area=true&hide_border=false&radius=12" width="100%" />
 </p>
-
 ---
 
 ### 📫 Контакты
