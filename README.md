@@ -47,6 +47,6 @@
 ### 📫 Контакты
 
 - Email: **ymankulov253546@gmail.com**
-- Telegram: [@ymankulovv,](https://t.me/ymankulov)
-- LinkedIn: [https://www.linkedin.com/in/taladev/]
+- Telegram: @ymankulovv(https://t.me/ymankulovv)
+- LinkedIn: https://www.linkedin.com/in/taladev/
 
